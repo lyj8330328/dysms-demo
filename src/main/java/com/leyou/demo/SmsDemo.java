@@ -76,7 +76,6 @@ public class SmsDemo {
         return sendSmsResponse;
     }
 
-
     public static QuerySendDetailsResponse querySendDetails(String bizId) throws ClientException {
 
         //可自助调整超时时间
